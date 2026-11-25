@@ -9,7 +9,7 @@ Assignment 1, Data Management (Διαχείριση Σύνθετων Δεδομ�
 - `part1_2.py`: reads a range [a, b] from the user, estimates the number of records in that range with both histograms, and compares the estimates to the real count.
 - `part2.py`: semijoin and anti-semijoin of `airports.dat` and `routes.dat`, using sort-merge and hash-based approaches.
 - `final_general.dat`, `airports.dat`, `routes.dat`: input data.
-- - `experiments_results.txt`, `histogram_results.txt`, `equi_width_histogram.png`, `equi_depth_histogram.png`: experiment results and histogram plots.
+-  `experiments_results.txt`, `histogram_results.txt`, `equi_width_histogram.png`, `equi_depth_histogram.png`: experiment results and histogram plots.
 
 ## Requirements
 - Python 3
