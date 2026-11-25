@@ -1,0 +1,466 @@
+Histogram Experiments:
+
+New experiment:For range: [22.0 - 34.0] | Real Count: 3605
+
+Equi-Width Error: 10.59%
+Equi-Depth Error: 8.89%
+
+Winner of round: Equi-Depth
+SCORE: Equi-Width: 0 | Equi-Depth: 1
+----------------------------------------
+New experiment:For range: [23.0 - 45.0] | Real Count: 5613
+
+Equi-Width Error: 5.24%
+Equi-Depth Error: 5.50%
+
+Winner of round: Equi-Width
+SCORE: Equi-Width: 1 | Equi-Depth: 1
+----------------------------------------
+New experiment:For range: [23.0 - 45.0] | Real Count: 5613
+
+Equi-Width Error: 5.24%
+Equi-Depth Error: 5.50%
+
+Winner of round: Equi-Width
+SCORE: Equi-Width: 2 | Equi-Depth: 1
+----------------------------------------
+New experiment:For range: [34.0 - 78.0] | Real Count: 4912
+
+Equi-Width Error: 0.41%
+Equi-Depth Error: 3.91%
+
+Winner of round: Equi-Width
+SCORE: Equi-Width: 3 | Equi-Depth: 1
+----------------------------------------
+New experiment:For range: [0.0 - 1.0] | Real Count: 305
+
+Equi-Width Error: 81.76%
+Equi-Depth Error: 81.58%
+
+Winner of round: Equi-Depth
+SCORE: Equi-Width: 3 | Equi-Depth: 2
+----------------------------------------
+New experiment:For range: [45.0 - 78.0] | Real Count: 2598
+
+Equi-Width Error: 0.52%
+Equi-Depth Error: 5.80%
+
+Winner of round: Equi-Width
+SCORE: Equi-Width: 4 | Equi-Depth: 2
+----------------------------------------
+New experiment:For range: [34.0 - 56.0] | Real Count: 4186
+
+Equi-Width Error: 1.24%
+Equi-Depth Error: 7.66%
+
+Winner of round: Equi-Width
+SCORE: Equi-Width: 5 | Equi-Depth: 2
+----------------------------------------
+New experiment:For range: [56.0 - 67.0] | Real Count: 617
+
+Equi-Width Error: 7.96%
+Equi-Depth Error: 30.74%
+
+Winner of round: Equi-Width
+SCORE: Equi-Width: 6 | Equi-Depth: 2
+----------------------------------------
+New experiment:For range: [56.0 - 67.0] | Real Count: 617
+
+Equi-Width Error: 7.96%
+Equi-Depth Error: 30.74%
+
+Winner of round: Equi-Width
+SCORE: Equi-Width: 7 | Equi-Depth: 2
+----------------------------------------
+New experiment:For range: [40.0 - 80.0] | Real Count: 3645
+
+Equi-Width Error: 0.00%
+Equi-Depth Error: 5.79%
+
+Winner of round: Equi-Width
+SCORE: Equi-Width: 8 | Equi-Depth: 2
+----------------------------------------
+New experiment:For range: [25.0 - 27.0] | Real Count: 955
+
+Equi-Width Error: 38.82%
+Equi-Depth Error: 38.25%
+
+Winner of round: Equi-Depth
+SCORE: Equi-Width: 8 | Equi-Depth: 3
+----------------------------------------
+New experiment:For range: [70.0 - 80.0] | Real Count: 145
+
+Equi-Width Error: 9.83%
+Equi-Depth Error: 167.90%
+
+Winner of round: Equi-Width
+SCORE: Equi-Width: 9 | Equi-Depth: 3
+----------------------------------------
+New experiment:For range: [45.0 - 67.0] | Real Count: 2405
+
+Equi-Width Error: 0.98%
+Equi-Depth Error: 16.01%
+
+Winner of round: Equi-Width
+SCORE: Equi-Width: 10 | Equi-Depth: 3
+----------------------------------------
+New experiment:For range: [34.0 - 67.0] | Real Count: 4719
+
+Equi-Width Error: 0.36%
+Equi-Depth Error: 9.04%
+
+Winner of round: Equi-Width
+SCORE: Equi-Width: 11 | Equi-Depth: 3
+----------------------------------------
+New experiment:For range: [18.0 - 22.0] | Real Count: 1311
+
+Equi-Width Error: 31.46%
+Equi-Depth Error: 22.88%
+
+Winner of round: Equi-Depth
+SCORE: Equi-Width: 11 | Equi-Depth: 4
+----------------------------------------
+New experiment:For range: [0.0 - 8.0] | Real Count: 446
+
+Equi-Width Error: 0.22%
+Equi-Depth Error: 0.75%
+
+Winner of round: Equi-Width
+SCORE: Equi-Width: 12 | Equi-Depth: 4
+----------------------------------------
+New experiment:For range: [25.0 - 35.0] | Real Count: 2984
+
+Equi-Width Error: 9.50%
+Equi-Depth Error: 6.88%
+
+Winner of round: Equi-Depth
+SCORE: Equi-Width: 12 | Equi-Depth: 5
+----------------------------------------
+New experiment:For range: [5.0 - 12.0] | Real Count: 104
+
+Equi-Width Error: 123.92%
+Equi-Depth Error: 278.04%
+
+Winner of round: Equi-Width
+SCORE: Equi-Width: 13 | Equi-Depth: 5
+----------------------------------------
+New experiment:For range: [16.0 - 80.0] | Real Count: 9527
+
+Equi-Width Error: 0.00%
+Equi-Depth Error: 3.38%
+
+Winner of round: Equi-Width
+SCORE: Equi-Width: 14 | Equi-Depth: 5
+----------------------------------------
+New experiment:For range: [30.0 - 30.0] | Real Count: 272
+
+Equi-Width Error: 100.00%
+Equi-Depth Error: 100.00%
+
+Winner of round: Equi-Width
+SCORE: Equi-Width: 15 | Equi-Depth: 5
+----------------------------------------
+New experiment:For range: [18.0 - 25.0] | Real Count: 2198
+
+Equi-Width Error: 25.39%
+Equi-Depth Error: 19.51%
+
+Winner of round: Equi-Depth
+SCORE: Equi-Width: 15 | Equi-Depth: 6
+----------------------------------------
+New experiment:For range: [5.0 - 12.0] | Real Count: 104
+
+Equi-Width Error: 123.92%
+Equi-Depth Error: 278.04%
+
+Winner of round: Equi-Width
+SCORE: Equi-Width: 16 | Equi-Depth: 6
+----------------------------------------
+New experiment:For range: [45.0 - 54.0] | Real Count: 1671
+
+Equi-Width Error: 9.54%
+Equi-Depth Error: 9.34%
+
+Winner of round: Equi-Depth
+SCORE: Equi-Width: 16 | Equi-Depth: 7
+----------------------------------------
+New experiment:For range: [45.0 - 45.0] | Real Count: 211
+
+Equi-Width Error: 100.00%
+Equi-Depth Error: 100.00%
+
+Winner of round: Equi-Width
+SCORE: Equi-Width: 17 | Equi-Depth: 7
+----------------------------------------
+New experiment:For range: [16.0 - 23.4] | Real Count: 1797
+
+Equi-Width Error: 7.50%
+Equi-Depth Error: 17.80%
+
+Winner of round: Equi-Width
+SCORE: Equi-Width: 18 | Equi-Depth: 7
+----------------------------------------
+New experiment:For range: [16.0 - 80.0] | Real Count: 9527
+
+Equi-Width Error: 0.00%
+Equi-Depth Error: 3.38%
+
+Winner of round: Equi-Width
+SCORE: Equi-Width: 19 | Equi-Depth: 7
+----------------------------------------
+New experiment:For range: [15.0 - 17.0] | Real Count: 272
+
+Equi-Width Error: 11.35%
+Equi-Depth Error: 58.70%
+
+Winner of round: Equi-Width
+SCORE: Equi-Width: 20 | Equi-Depth: 7
+----------------------------------------
+New experiment:For range: [33.0 - 47.0] | Real Count: 3124
+
+Equi-Width Error: 5.81%
+Equi-Depth Error: 8.40%
+
+Winner of round: Equi-Width
+SCORE: Equi-Width: 21 | Equi-Depth: 7
+----------------------------------------
+New experiment:For range: [78.0 - 80.0] | Real Count: 16
+
+Equi-Width Error: 50.00%
+Equi-Depth Error: 385.58%
+
+Winner of round: Equi-Width
+SCORE: Equi-Width: 22 | Equi-Depth: 7
+----------------------------------------
+New experiment:For range: [25.0 - 27.0] | Real Count: 955
+
+Equi-Width Error: 38.82%
+Equi-Depth Error: 38.25%
+
+Winner of round: Equi-Depth
+SCORE: Equi-Width: 22 | Equi-Depth: 8
+----------------------------------------
+New experiment:For range: [20.0 - 70.0] | Real Count: 8669
+
+Equi-Width Error: 2.30%
+Equi-Depth Error: 2.30%
+
+Winner of round: Equi-Width
+SCORE: Equi-Width: 23 | Equi-Depth: 8
+----------------------------------------
+New experiment:For range: [23.0 - 31.0] | Real Count: 2619
+
+Equi-Width Error: 13.34%
+Equi-Depth Error: c
+
+Winner of round: Equi-Depth
+SCORE: Equi-Width: 23 | Equi-Depth: 9
+----------------------------------------
+New experiment:For range: [18.0 - 30.0] | Real Count: 3706
+
+Equi-Width Error: 16.34%
+Equi-Depth Error: 11.35%
+
+Winner of round: Equi-Depth
+SCORE: Equi-Width: 23 | Equi-Depth: 10
+----------------------------------------
+New experiment:For range: [18.0 - 30.0] | Real Count: 3706
+
+Equi-Width Error: 16.34%
+Equi-Depth Error: 11.35%
+
+Winner of round: Equi-Depth
+SCORE: Equi-Width: 23 | Equi-Depth: 11
+----------------------------------------
+New experiment:For range: [70.0 - 80.0] | Real Count: 145
+
+Equi-Width Error: 9.83%
+Equi-Depth Error: 167.90%
+
+Winner of round: Equi-Width
+SCORE: Equi-Width: 24 | Equi-Depth: 11
+----------------------------------------
+New experiment:For range: [0.0 - 25.0] | Real Count: 2979
+
+Equi-Width Error: 10.50%
+Equi-Depth Error: 6.67%
+
+Winner of round: Equi-Depth
+SCORE: Equi-Width: 24 | Equi-Depth: 12
+----------------------------------------
+New experiment:For range: [0.0 - 25.0] | Real Count: 2979
+
+Equi-Width Error: 10.50%
+Equi-Depth Error: 6.67%
+
+Winner of round: Equi-Depth
+SCORE: Equi-Width: 24 | Equi-Depth: 13
+----------------------------------------
+New experiment:For range: [65.0 - 80.0] | Real Count: 309
+
+Equi-Width Error: 2.71%
+Equi-Depth Error: 88.57%
+
+Winner of round: Equi-Width
+SCORE: Equi-Width: 25 | Equi-Depth: 13
+----------------------------------------
+New experiment:For range: [30.0 - 30.0] | Real Count: 272
+
+Equi-Width Error: 100.00%
+Equi-Depth Error: 100.00%
+
+Winner of round: Equi-Width
+SCORE: Equi-Width: 26 | Equi-Depth: 13
+----------------------------------------
+New experiment:For range: [29.0 - 33.0] | Real Count: 1241
+
+Equi-Width Error: 11.77%
+Equi-Depth Error: 18.61%
+
+Winner of round: Equi-Width
+SCORE: Equi-Width: 27 | Equi-Depth: 13
+----------------------------------------
+New experiment:For range: [54.0 - 80.0] | Real Count: 1064
+
+Equi-Width Error: 5.64%
+Equi-Depth Error: 5.08%
+
+Winner of round: Equi-Depth
+SCORE: Equi-Width: 27 | Equi-Depth: 14
+----------------------------------------
+New experiment:For range: [48.0 - 56.0] | Real Count: 1292
+
+Equi-Width Error: 6.50%
+Equi-Depth Error: 15.81%
+
+Winner of round: Equi-Width
+SCORE: Equi-Width: 28 | Equi-Depth: 14
+----------------------------------------
+New experiment:For range: [20.0 - 30.0] | Real Count: 3169
+
+Equi-Width Error: 16.34%
+Equi-Depth Error: 12.28%
+
+Winner of round: Equi-Depth
+SCORE: Equi-Width: 28 | Equi-Depth: 15
+----------------------------------------
+New experiment:For range: [18.0 - 20.0] | Real Count: 745
+
+Equi-Width Error: 39.70%
+Equi-Depth Error: 32.15%
+
+Winner of round: Equi-Depth
+SCORE: Equi-Width: 28 | Equi-Depth: 16
+----------------------------------------
+New experiment:For range: [26.0 - 29.0] | Real Count: 1236
+
+Equi-Width Error: 29.10%
+Equi-Depth Error: 18.20%
+
+Winner of round: Equi-Depth
+SCORE: Equi-Width: 28 | Equi-Depth: 17
+----------------------------------------
+New experiment:For range: [34.0 - 54.0] | Real Count: 3985
+
+Equi-Width Error: 3.84%
+Equi-Depth Error: 4.96%
+
+Winner of round: Equi-Width
+SCORE: Equi-Width: 29 | Equi-Depth: 17
+----------------------------------------
+New experiment:For range: [78.0 - 80.0] | Real Count: 16
+
+Equi-Width Error: 50.00%
+Equi-Depth Error: 385.58%
+
+Winner of round: Equi-Width
+SCORE: Equi-Width: 30 | Equi-Depth: 17
+----------------------------------------
+New experiment:For range: [77.0 - 80.0] | Real Count: 25
+
+Equi-Width Error: 44.00%
+Equi-Depth Error: 366.15%
+
+Winner of round: Equi-Width
+SCORE: Equi-Width: 31 | Equi-Depth: 17
+----------------------------------------
+New experiment:For range: [24.0 - 56.0] | Real Count: 6992
+
+Equi-Width Error: 1.20%
+Equi-Depth Error: 4.97%
+
+Winner of round: Equi-Width
+SCORE: Equi-Width: 32 | Equi-Depth: 17
+----------------------------------------
+New experiment:For range: [23.0 - 78.0] | Real Count: 8000
+
+Equi-Width Error: 0.87%
+Equi-Depth Error: 3.11%
+
+Winner of round: Equi-Width
+SCORE: Equi-Width: 33 | Equi-Depth: 17
+----------------------------------------
+New experiment:For range: [67.0 - 79.0] | Real Count: 225
+
+Equi-Width Error: 7.61%
+Equi-Depth Error: 107.18%
+
+Winner of round: Equi-Width
+SCORE: Equi-Width: 34 | Equi-Depth: 17
+----------------------------------------
+New experiment:For range: [69.0 - 79.0] | Real Count: 171
+
+Equi-Width Error: 4.61%
+Equi-Depth Error: 127.17%
+
+Winner of round: Equi-Width
+SCORE: Equi-Width: 35 | Equi-Depth: 17
+----------------------------------------
+New experiment:For range: [10.0 - 45.0] | Real Count: 7255
+
+Equi-Width Error: 3.65%
+Equi-Depth Error: 3.28%
+
+Winner of round: Equi-Depth
+SCORE: Equi-Width: 35 | Equi-Depth: 18
+----------------------------------------
+New experiment:For range: [45.0 - 67.0] | Real Count: 2405
+
+Equi-Width Error: 0.98%
+Equi-Depth Error: 16.01%
+
+Winner of round: Equi-Width
+SCORE: Equi-Width: 36 | Equi-Depth: 18
+----------------------------------------
+New experiment:For range: [16.0 - 47.0] | Real Count: 7497
+
+Equi-Width Error: 2.69%
+Equi-Depth Error: 6.40%
+
+Winner of round: Equi-Width
+SCORE: Equi-Width: 37 | Equi-Depth: 18
+----------------------------------------
+New experiment:For range: [11.0 - 67.0] | Real Count: 9448
+
+Equi-Width Error: 0.98%
+Equi-Depth Error: 4.94%
+
+Winner of round: Equi-Width
+SCORE: Equi-Width: 38 | Equi-Depth: 18
+----------------------------------------
+New experiment:For range: [55.0 - 79.0] | Real Count: 930
+
+Equi-Width Error: 3.33%
+Equi-Depth Error: 0.25%
+
+Winner of round: Equi-Depth
+SCORE: Equi-Width: 38 | Equi-Depth: 19
+----------------------------------------
+New experiment:For range: [56.0 - 80.0] | Real Count: 822
+
+Equi-Width Error: 0.00%
+Equi-Depth Error: 13.42%
+
+Winner of round: Equi-Width
+SCORE: Equi-Width: 39 | Equi-Depth: 19
+----------------------------------------
